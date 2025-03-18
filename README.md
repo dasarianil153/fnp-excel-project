@@ -33,3 +33,5 @@ specific occasions.
 4. create pivot tables according to the questions they asked.
 5. choose the right charts and grafh bars.
 6. At last step created a insightfull dashboard.
+
+# Dashboard
