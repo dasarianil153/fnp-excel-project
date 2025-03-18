@@ -25,3 +25,11 @@ times.
 different occasions.
 10. Product Popularity by Occasion: Identify which products are most popular during
 specific occasions.
+
+# Process
+1.first extract the date from dataset
+2.verify the data for any missing values nd anomolies and fixed them
+3.make sure the date is consistent and clean with respect to data type,data format
+4.create pivot tables according to the questions they asked
+5.choose the right charts and grafh bars
+6.At last step created a insightfull dashboard
