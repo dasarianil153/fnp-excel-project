@@ -35,3 +35,4 @@ specific occasions.
 6. At last step created a insightfull dashboard.
 
 # Dashboard
+- <a herf ="https://github.com/dasarianil153/fnp-excel-project/blob/main/fnp%20dashboard.PNG">View Dashboard</a>
